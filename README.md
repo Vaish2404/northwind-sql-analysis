@@ -7,9 +7,8 @@ It focuses on analyzing **monthly revenue trends** and deriving deeper insights 
 
 ## Dataset
 
-- Uploaded in the repo.
-- **Source**: [Northwind Traders Sample DB](https://github.com/jpwhite3/northwind-SQLite3)  
-- **Type**: SQLite (`northwind.db`)  
+- **Source**: Uploaded in the repo.
+- **Type**: SQLite (`Northwind_small.sqlite`)  
 - **Domain**: E-commerce / Retail
 
 ---
